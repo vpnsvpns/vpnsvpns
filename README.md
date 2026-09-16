@@ -12,5 +12,6 @@
 Пожертвования всегда приветствуются
 Если наши проекты помогают вам оставаться на связи, вы можете поддержать разработчиков:
 
- **Донат создателю Prihs:** [DonationAlerts](https://www.donationalerts.com/r/prihvpn)
+**Донат создателю Prihs:** [DonationAlerts](https://www.donationalerts.com/r/prihvpn)
+
 **Донат Лёше (Второй создатель):** [DonationAlerts](https://www.donationalerts.com/r/leshabalenci)
